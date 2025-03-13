@@ -72,4 +72,4 @@ This program securely manages passwords by:
 - Storing hashes in a format that allows for easy retrieval and comparison.
 - Providing a user-friendly command-line interface for interacting with the password manager.
 
-Overall, this implementation demonstrates good practices in password security, including the use of cryptographic libraries and proper error handling.
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
